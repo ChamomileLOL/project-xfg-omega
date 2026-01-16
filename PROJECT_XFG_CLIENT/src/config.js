@@ -4,4 +4,5 @@
 
 // RIGHT NOW: We will leave this as localhost. 
 // STEP 2 (LATER): We will come back and change this string to your Cloud URL.
-export const API_URL = "http://localhost:3000";
+// src/config.js
+export const API_URL = "https://project-xfg-omega.onrender.com";
